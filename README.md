@@ -1,2 +1,5 @@
-# .github
-Official GitHub home of GhostCall — a browser-based temporary voice calling platform.
+# GhostCall
+
+Official GitHub organization profile for GhostCall.
+
+Visit https://www.ghostcall.space/
